@@ -2,7 +2,8 @@
 First BlockChain Project In this project user can be able to book a vacant hotel room for 2 ethers. If a person pays less than asked amount the booking gets cacelled and if a person tries to book a booked hotel room then too it tells the user that "Room is Occupied!". Also you can link this to your MetaMask wallet and directly perform transactions through it.
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+<!-- 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg"> -->
+	<a href="https://github.com/shashwatwankhedekar/BlockChain-Project/blob/main/header.svg">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
