@@ -4,7 +4,8 @@ First BlockChain Project In this project user can be able to book a vacant hotel
 	<br>
 <!-- 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg"> -->
 <!-- 	<a href="https://github.com/shashwatwankhedekar/BlockChain-Project/blob/main/header.svg"> -->
-	<a href="https://github.com/shashwatwankhedekar/BlockChain-Project/edit/main/header.svg">
+<!-- 	<a href="https://github.com/shashwatwankhedekar/BlockChain-Project/edit/main/header.svg"> -->
+	<a href="https://www.linkedin.com/in/shashwatwankhedekar/">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
